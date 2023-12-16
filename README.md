@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/Vex-SaffronCodes/Vex-SaffronCodes/blob/main/GitHub%20Banner.png)
 
-<img align= "right" alt= "Coding" height="300" width="400" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F6dWo3eGY5bXcxZzBrMmljNWdtYmJjMHhxb2xmNHBmcTR0ZWN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align= "right" alt= "Coding" height="200" width="300" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F6dWo3eGY5bXcxZzBrMmljNWdtYmJjMHhxb2xmNHBmcTR0ZWN2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Gen AI, Deep Learning**
 
