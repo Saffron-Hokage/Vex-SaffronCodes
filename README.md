@@ -17,7 +17,13 @@
 
 # 💻 Skills: </br>
 
-<tr><td>- SQL</td> <td>- Python</td> <td>- PowerBI</td> <td>- Tableau</td></tr> </br>
-<tr><td>- Data Analysis</td> <td>- Data Modelling</td> <td>- Data Visualization</td> <td>- EDA</td></tr>
-
-
+* SQL
+* Python
+* Power BI
+* Tableau
+* Data Analysis
+* Data Visualization
+* Data Modelling
+* Exploratory Data Analysis
+* Machine Learning
+  
