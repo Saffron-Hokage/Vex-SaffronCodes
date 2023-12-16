@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Gen AI, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vex-SaffronCodes](https://github.com/Vex-SaffronCodes)
+- 👨‍💻 All of my projects are available at [Vex-SaffronCodes](https://github.com/Vex-SaffronCodes)
 
 - 💬 Ask me about **Data Science | Machine Learning | Analyticss**
 
