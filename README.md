@@ -40,5 +40,3 @@
 
 # 📊 GitHub Stats:</br>
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vex-SaffronCodes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-
-<img align="left" width="47%" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=Vex-SaffronCodes&theme=tokyonight&hide_border=false" />
