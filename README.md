@@ -21,14 +21,16 @@
 
   * SQL
   * Python
+  * Excel
   * Power BI
   * Tableau
 </details>
 
 <details>
   <summary>Machine Learning & Statistics </summary>
+
   * EDA
-  * Hypothesis Testing 
+  * Hypothesis testing
   * Machine Learning
   * Deep Learning
 </details>
