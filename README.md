@@ -14,11 +14,8 @@
 - 📫 How to reach me **vivek.dumbre@outlook.com**
 
 - ⚡ Fun fact **I like Anime, Sketching**
-  </br>
-  </br>
 
 # 💻 Skills: </br>
-
 * SQL
 * Python
 * Power BI
