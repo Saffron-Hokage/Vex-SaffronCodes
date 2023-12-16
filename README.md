@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Vex-SaffronCodes](https://github.com/Vex-SaffronCodes)
 
-- 💬 Ask me about **Data Science | Machine Learning | Analyticss**
+- 💬 Ask me about **Data Science | Machine Learning | Analytics**
 
 - 📫 How to reach me **vivek.dumbre@outlook.com**
 
