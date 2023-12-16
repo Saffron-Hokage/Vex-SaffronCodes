@@ -36,7 +36,7 @@
 </details>
 
 
-## 🌐 Socials:</br>
+# 🌐 Socials:</br>
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vivek-dumbre/) 
 
 
