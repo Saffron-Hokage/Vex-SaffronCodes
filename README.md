@@ -15,3 +15,12 @@
 
 - ⚡ Fun fact **I like Anime, Sketching**
 
+# 💻 Skills: </br>
+* Power BI
+* SQL
+* Tableau
+* Alteryx
+* Python
+* Data analysis
+* Business analysis 
+
