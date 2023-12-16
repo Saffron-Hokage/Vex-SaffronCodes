@@ -25,6 +25,9 @@
 * Data Modelling
 * Exploratory Data Analysis
 * Machine Learning
+## 🌐 Socials:
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vivek-dumbre/) 
+
 
 # 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vex-SaffronCodes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
