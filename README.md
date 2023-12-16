@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A Data Science professional from India</h3> </br>
 
 ![logo](https://github.com/Vex-SaffronCodes/Vex-SaffronCodes/blob/main/GitHub%20Banner.png)
 
