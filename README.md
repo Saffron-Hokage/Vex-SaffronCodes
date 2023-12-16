@@ -16,11 +16,8 @@
 - ⚡ Fun fact **I like Anime, Sketching**
 
 # 💻 Skills: </br>
-* Power BI
-* SQL
-* Tableau
-* Alteryx
-* Python
-* Data analysis
-* Business analysis 
+
+<tr><td>- SQL</td> <td>- Python</td> <td>- PowerBI</td> <td>- Tableau</td></tr>
+<tr><td>- Data Analysis</td> <td>- Data Modelling</td> <td>- Data Visualization</td> <td>- EDA</td></tr>
+
 
