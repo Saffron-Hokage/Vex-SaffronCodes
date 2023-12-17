@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Science | Machine Learning | Analytics**
 
-- 📫 How to reach me **vivek.dumbre@outlook.com**
+- 📫 Where to reach me **vivek.dumbre@outlook.com**
 
 - ⚡ Fun fact **I like Anime, Sketching**
 
